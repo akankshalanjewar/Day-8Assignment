@@ -1,0 +1,16 @@
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\bin\Debug\net5.0\UC-3.exe
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\bin\Debug\net5.0\UC-3.deps.json
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\bin\Debug\net5.0\UC-3.runtimeconfig.json
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\bin\Debug\net5.0\UC-3.runtimeconfig.dev.json
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\bin\Debug\net5.0\UC-3.dll
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\bin\Debug\net5.0\UC-3.pdb
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.csproj.AssemblyReference.cache
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.AssemblyInfoInputs.cache
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.AssemblyInfo.cs
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.csproj.CoreCompileInputs.cache
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.dll
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\refint\UC-3.dll
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.pdb
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\UC-3.genruntimeconfig.cache
+C:\Bridgelabz\LineComparisonUsingOops\UC-3\obj\Debug\net5.0\ref\UC-3.dll
